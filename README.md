@@ -12,8 +12,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,threejs,git,github,vscode,figma&theme=dark&perline=6" alt="Technology icons" />
 
-<sub>Illustrative stack — customize this list to include only technologies you actually use.</sub>
-
 </div>
 
 ### Session statistics
@@ -26,10 +24,6 @@
 <img src="https://streak-stats.demolab.com?user=aliiiimc&theme=tokyonight&hide_border=true&background=0F1324&ring=F2C17A&fire=F2C17A&currStreakLabel=BF86C7" alt="GitHub contributions streak" />
 
 </div>
-
-### Find me
-
-[![GitHub](https://img.shields.io/badge/GitHub-aliiimc-1b1a2a?style=flat-square&logo=github&logoColor=f2c17a)](https://github.com/aliiimc)
 
 ---
 
