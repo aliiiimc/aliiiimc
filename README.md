@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,threejs,git,c,cpp,postgres,mysql,unity,php,figma&theme=dark&perline=6" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,git,c,cpp,postgres,mysql,unity,php,figma&theme=dark&perline=6" alt="Technology icons" />
 
 </div>
 
