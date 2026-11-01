@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/midnight-jazz.gif" width="100%" alt="Animated pixel art midnight jazz club featuring saxophone, piano, drums, and double bass" />
+<img src="assets/midnight-jazz.gif" width="100%" alt="Cozy pixel-art jazz room on a rainy night, with a sleeping dog, saxophone and Blue Train poster" />
 
 </div>
 
