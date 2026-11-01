@@ -10,16 +10,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,threejs,git,github,vscode,figma&theme=dark&perline=6" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,threejs,git,c,cpp,postgres,mysql,unity,php,figma&theme=dark&perline=6" alt="Technology icons" />
 
 </div>
 
 ### Session statistics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aliiiimc&show_icons=true&hide_border=true&bg_color=0f1324&title_color=f2c17a&text_color=ded8ed&icon_color=bf86c7&ring_color=bf86c7" alt="GitHub account statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliiiimc&layout=compact&hide_border=true&bg_color=0f1324&title_color=f2c17a&text_color=ded8ed" alt="Top languages by repository code" />
 
 <img src="https://streak-stats.demolab.com?user=aliiiimc&theme=tokyonight&hide_border=true&background=0F1324&ring=F2C17A&fire=F2C17A&currStreakLabel=BF86C7" alt="GitHub contributions streak" />
 
