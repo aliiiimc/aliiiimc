@@ -6,7 +6,7 @@
 
 ---
 
-### 02 / The toolkit
+### The toolkit
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 </div>
 
-### 03 / Session statistics
+### Session statistics
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 </div>
 
-### 05 / Find me on the bandstand
+### Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-aliiimc-1b1a2a?style=flat-square&logo=github&logoColor=f2c17a)](https://github.com/aliiimc)
 
